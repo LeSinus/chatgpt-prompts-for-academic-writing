@@ -7,6 +7,8 @@ You can input your text multiple times using the prompt "Read this [PARAPGRAPH]:
 
 > **TIP#2:** If you need to create a new line, press Shift+Enter. (Don’t press Enter on its own because that sends the prompt to  ChatGPT.) If you need to paste in something you’ve copied from elsewhere, give a Paste command. Normally, pressing the standard shortcut, Ctrl+V, is the easiest way. But you can also right-click in the prompt box, and then click Paste on the contextual menu.
 
+> **TIP#3:** ChatGPT isn’t just there to take orders. It can also ask questions.
+Before generating the content of a section, you could start with the prompt, “Please ask me all of the questions you need to help me write this PART.” “PART” could also be more specific, like “introduction” or “conclusion.”
 
 ## BRAINSTORMING
 
@@ -52,6 +54,10 @@ Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 ```
 
 ```
+Write 10 alternative titles for [your draft title]
+```
+
+```
 Write a topic sentence for this paragraph: [PARAGRAPH] 
 ```
 
@@ -74,13 +80,18 @@ Generate an outline for [TOPIC SENTENCE]
 ```
 
 ```
-I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
+I want to write a journal article about [TOPIC SENTENCE].
+Give me an outline for the article that I can use as a starting point.
 ```
 
 ### Introduction
 
 ```
 Come up with an introduction for the following research topic: [TOPIC SENTENCE]
+```
+
+```
+Write an introduction based on the bullet points below.
 ```
 
 ### Literature Review
@@ -297,6 +308,10 @@ In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] l
 
 ```
 Summarize the following content: [PARAPGRAPHS]
+```
+
+```
+Cut the length of this article by 30%
 ```
 
 ```
