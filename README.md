@@ -461,3 +461,10 @@ Make this more persuasive: [PARAGRAPH]
 ```
 Write 3 tweets about this research. [PARAGRAPHS]
 ```
+
+
+## Manage Your Email Efficiently
+
+```
+Read the following message and draft a reply for me.
+```
