@@ -304,6 +304,34 @@ Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a
 In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
 ```
 
+```
+Can you explain what grammar mistakes you have corrected, including an explanation of the rule in question?
+```
+
+```
+Can you provide a report on the paragraph? The report should include document statistics, vocabulary statistics, readability score, tone type (available options are Formal, Informal, Optimistic, Worried, Friendly, Curious, Assertive, Encouraging, Surprised, or Cooperative), intent type (available options are Inform, Describe, Convince, or Tell A Story), audience type (available options are General, Knowledgeable, or Expert), style type (available options are Formal or Informal), emotion type (available options are Mild or Strong), and domain type (available options are General, Academic, Business, Technical, Creative, or Casual).
+```
+
+```
+Can you change the paragraph to the Flesch-Kincaid Grade Level score of 6 and provide a revised score?
+```
+
+```
+Can you change the tone of the paragraph to “Optimistic”?
+```
+
+```
+Can you change the audience of the paragraph to “Expert”?
+```
+
+```
+Can you change the domain of the paragraph to “Academic”?
+```
+
+```
+Can you check the paragraph for plagiarism?
+```
+
 ### SUMMARIZATION
 
 ```
