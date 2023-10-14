@@ -112,6 +112,18 @@ Conduct a literature review on [TOPIC SENTENCE] and provide review paper referen
 Provide me with references and links to papers in [PARAPGRAPH]
 ```
 
+```
+I want you to propose different taxonomies that encompass all the above rules. Before presenting each taxonomy, discuss the criteria used to group the rules. Then, for each group, list all the rules it includes (don't give just examples).
+```
+
+```
+Summarize the recent advancements in BFT combination rules, highlighting their potential applications in various domains.
+```
+
+```
+Write a comparative analysis of the advantages and limitations of the different aforementioned combination rules.
+```
+
 > **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
 
 ```
@@ -201,6 +213,11 @@ Give recommendations and conclusion for: [PARAGRAPHS]
 ```
 Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
 ```
+
+```
+What are the key challenges in developing new BFT combination rules?
+```
+
 
 ## IMPROVING LANGUAGE
 
