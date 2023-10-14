@@ -10,6 +10,14 @@ You can input your text multiple times using the prompt "Read this [PARAPGRAPH]:
 > **TIP#3:** ChatGPT isn’t just there to take orders. It can also ask questions.
 Before generating the content of a section, you could start with the prompt, “Please ask me all of the questions you need to help me write this PART.” “PART” could also be more specific, like “introduction” or “conclusion.”
 
+> **TIP#4:** To force ChatGPT to continue, you can reply to the chatbot with keywords like “Continue writing”, “Go on”, “Finish answer” or specify the portion of text you want it to continue from.
+> If you’re unable to make ChatGPT follow your “continue” queries with the right response, you can enter the following text inside ChatGPT to continue writing from where it left off: From now on when I say "continue" you must revisit the last sample of code you gave. Look at the last line of the code and continue the code from there. Do not start from the beginning of the code.
+
+> **TIP#5:** If you find it annoying to make ChatGPT continue responding, an easier approach to get the job done is to make it split its responses into multiple pages or chapters. You can script your input in a style similar to this:
+Create an essay on "Historical perspective on ecological problems" and divide it into 20 different pages. Let's start with Page 1.
+
+> When ChatGPT generates a response for the first page, you can get subsequent responses by typing Page 2, Page 3, and so on.
+
 ## BRAINSTORMING
 
 ```
