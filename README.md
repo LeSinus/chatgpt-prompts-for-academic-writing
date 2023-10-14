@@ -18,10 +18,18 @@ Create an essay on "Historical perspective on ecological problems" and divide it
 
 > When ChatGPT generates a response for the first page, you can get subsequent responses by typing Page 2, Page 3, and so on.
 
-## BRAINSTORMING
+## Brainstorming and Ideation
 
 ```
 Find a research topic for a PhD in the area of [TOPIC]
+```
+
+```
+Propose four original ideas for a thesis on the role of social media in shaping political discourse.
+```
+
+```
+Generate five potential research questions related to the impact of climate change on global food security.
 ```
 
 ```
@@ -91,6 +99,15 @@ Generate an outline for [TOPIC SENTENCE]
 I want to write a journal article about [TOPIC SENTENCE].
 Give me an outline for the article that I can use as a starting point.
 ```
+
+```
+Create a detailed outline for a research paper discussing the psychological effects of long-term space travel on astronauts.
+```
+
+```
+Provide a structured outline for a literature review on the effectiveness of online learning during the COVID-19 pandemic.
+```
+
 
 ### Introduction
 
