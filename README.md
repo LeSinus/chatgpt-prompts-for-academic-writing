@@ -61,6 +61,11 @@ Identify potential areas for future research in the context of this [TOPIC SENTE
 Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
 ```
 
+```
+Develop a research question for an academic paper on [your chosen topic], ensuring it is clear, focused, and aligned with the objectives of the study.
+```
+
+
 ## ARTICLE SECTIONS
 
 ### Title/Topic Sentence
@@ -96,6 +101,10 @@ Generate an outline for [TOPIC SENTENCE]
 ```
 
 ```
+Create an outline for an academic essay on [your chosen topic], including an introduction, main body paragraphs, and a conclusion. Ensure the logical flow of ideas and the inclusion of supporting evidence.
+```
+
+```
 I want to write a journal article about [TOPIC SENTENCE].
 Give me an outline for the article that I can use as a starting point.
 ```
@@ -123,6 +132,10 @@ Write an introduction based on the bullet points below.
 
 ```
 Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
+```
+
+```
+Write a literature review section for an academic research paper on [your chosen topic], summarizing and synthesizing relevant scholarly sources to provide a comprehensive overview of the existing knowledge in the field.
 ```
 
 ```
@@ -197,6 +210,10 @@ Explain how qualitative/quantitative research methods can be used to address [RE
 Recommend best practices for data collection and analysis in [TOPIC SENTENCE]
 ```
 
+```
+Develop a research methodology for studying [your research topic]. Justify your choice of research design, data collection methods, and analysis techniques, and explain how your proposed methodology will address the research questions or objectives.
+```
+
 ### Experiments
 
 ```
@@ -207,6 +224,10 @@ Design an experiment that [ACTION]
 
 ```
 Write a result section for the following paragraphs. Please write this in the third person. [PARAGRAPHS]
+```
+
+```
+Analyze and interpret the research findings from a study on [your chosen topic], discussing their implications, limitations, and potential future directions for further investigation.
 ```
 
 ### Discussion
@@ -235,6 +256,11 @@ Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
 What are the key challenges in developing new BFT combination rules?
 ```
 
+### References
+
+```
+Compile a reference list following a specific citation style (such as APA, MLA, or Chicago) for an academic paper on [your chosen topic], ensuring accurate and consistent formatting of in-text citations and reference entries.
+```
 
 ## IMPROVING LANGUAGE
 
