@@ -226,14 +226,15 @@ Design an experiment that [ACTION]
 Write a result section for the following paragraphs. Please write this in the third person. [PARAGRAPHS]
 ```
 
-```
-Analyze and interpret the research findings from a study on [your chosen topic], discussing their implications, limitations, and potential future directions for further investigation.
-```
 
 ### Discussion
 
 ```
 Discuss these results: [RESULT PARAGRAPHS]
+```
+
+```
+Analyze and interpret the research findings from a study on [your chosen topic], discussing their implications, limitations, and potential future directions for further investigation.
 ```
 
 ### Conclusion
