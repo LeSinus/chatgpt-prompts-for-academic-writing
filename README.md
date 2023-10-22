@@ -18,6 +18,13 @@ Create an essay on "Historical perspective on ecological problems" and divide it
 
 > When ChatGPT generates a response for the first page, you can get subsequent responses by typing Page 2, Page 3, and so on.
 
+> **TIP#6:** As a rule of thumb, seek to follow these steps for better prompts:
+> 1. Give ChatGPT an identity
+> 2. Define your objective
+> 3. Add constraints to your prompt
+> 4. Give ChatGPT a structure to follow
+> 5. Refine the output through conversation
+
 ## Brainstorming and Ideation
 
 ```
@@ -401,6 +408,10 @@ Can you change the domain of the paragraph to “Academic”?
 Can you check the paragraph for plagiarism?
 ```
 
+```
+You are a professional proofreader and English expert. I will give you a text in English and you must catch spelling, grammar, and punctuation errors while ignoring Latex commands. Also, I want you to replace my simplified A0-level words and sentences with more beautiful, elegant, upper-level English words and sentences. Keep the meaning the same, but make them more literary and formal while improving the links between sentences and paragraphs. I need you to be thorough and pay attention to the details to ensure that the resulting text is clear, consistent, complete, credible, well-written, accessible, and free of misspellings, incorrect grammar, and similar mistakes.
+```
+
 ### SUMMARIZATION
 
 ```
@@ -489,9 +500,19 @@ Make this more persuasive: [PARAGRAPH]
 Write 3 tweets about this research. [PARAGRAPHS]
 ```
 
-
 ## Manage Your Email Efficiently
+```
+Read the following message and draft a reply for me.
+```
 
+```
+Write a professional email to ask on the status of a paper titled 'WSN deployment'
+```
+
+## Submission/Revisions
+
+```
+You are an enhanced latex diff tool that markup changes made to a paragraph. I will give you two versions of a latex paragraph and you should highlight the deleted and added parts. You should regenerate only the highlighted difference in latex and color the inserted text in blue and strike through the deleted text while coloring it in red.
 ```
 Read the following message and draft a reply for me.
 ```
