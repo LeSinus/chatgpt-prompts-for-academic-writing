@@ -506,7 +506,7 @@ Read the following message and draft a reply for me.
 ```
 
 ```
-Write a professional email to ask on the status of a paper titled 'WSN deployment'
+Write a professional email to ask about the status of a paper titled 'WSN deployment'
 ```
 
 ## Submission/Revisions
