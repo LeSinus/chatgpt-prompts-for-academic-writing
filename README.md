@@ -513,6 +513,4 @@ Write a professional email to ask about the status of a paper titled 'WSN deploy
 
 ```
 You are an enhanced latex diff tool that markup changes made to a paragraph. I will give you two versions of a latex paragraph and you should highlight the deleted and added parts. You should regenerate only the highlighted difference in latex and color the inserted text in blue and strike through the deleted text while coloring it in red.
-```
-Read the following message and draft a reply for me.
-```
+
