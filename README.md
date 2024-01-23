@@ -25,6 +25,10 @@ Create an essay on "Historical perspective on ecological problems" and divide it
 > 4. Give ChatGPT a structure to follow
 > 5. Refine the output through conversation
 
+> **TIP#6:**  Use "EmotionPrompt” which combines the original prompt with emotional stimuli.
+> It appears that adding emotional coloring increases the quality of any model. Source: https://arxiv.org/pdf/2307.11760.pdf
+> Example: Determine whether an input word has the same meaning in the two input sentences. _This is very important to my career._
+
 ## The Meta Prompt
 ```
 Create a curated list of use cases for ChatGPT, each thoughtfully designed to align with my occupation. This list will serve as my personalized guide, enabling me to leverage ChatGPT’s capabilities in various aspects of my occupation. Organize this list into 10 distinct sections sorted by their relevance to my occupation. In each section, construct a table with columns for “Use Case” and “Example Request”. Each section will contain 5 use case examples. The “Example Request” will be written in the form of a direct request to ChatGPT. Begin by asking me about my occupation, and based on it fill in the interests, goals, and challenges I’m facing. It’s imperative that you follow the request for 10 sections and 5 use case examples in each section.
