@@ -27,8 +27,11 @@ Create an essay on "Historical perspective on ecological problems" and divide it
 
 > **TIP#7:**  Use "EmotionPrompt” which combines the original prompt with emotional stimuli.
 > It appears that adding emotional coloring increases the quality of any model. Source: https://arxiv.org/pdf/2307.11760.pdf
-
 > Example: Determine whether an input word has the same meaning in the two input sentences. _This is very important to my career._
+
+> **TIP#8:** To provide ChatGPT with more contextual information and improve its output, especially for complex tasks, add this prompt
+“Before you start, please ask me any questions you have about this so I can give you more context. Be extremely comprehensive.”
+
 
 ## The Meta Prompt
 ```
