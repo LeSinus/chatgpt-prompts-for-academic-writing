@@ -15,21 +15,28 @@ Before generating the content of a section, you could start with the prompt, “
 
 > **TIP#5:** If you find it annoying to make ChatGPT continue responding, an easier approach to get the job done is to make it split its responses into multiple pages or chapters. You can script your input in a style similar to this:
 Create an essay on "Historical perspective on ecological problems" and divide it into 20 different pages. Let's start with Page 1.
-
 > When ChatGPT generates a response for the first page, you can get subsequent responses by typing Page 2, Page 3, and so on.
 
-> **TIP#6:** As a rule of thumb, seek to follow these steps for better prompts:
+> **TIP#6:** Be specific with your prompts.
+Vague prompts result in generic outputs. Often, this is because the context required to generate the right response lives in your head, and the chatbot doesn’t know exactly what you want. To combat this, provide ChatGPT with enough details up front so it understands your specific circumstances and knows enough to meet your demands. This often calls for an iterative process: you go back and forth with ChatGPT and refine your prompts until it has enough context to generate a better response.
+
+Here are examples of creating a more specific prompt.
+
+Instead of this: Create a list of activities for young kids.
+Do this: Create a list of outdoor activities for six kids ages 5–8. The kids can access a large, flat yard, a kiddie pool, and a nature trail nearby. 
+
+> **TIP#7:** As a rule of thumb, seek to follow these steps for better prompts:
 > 1. Give ChatGPT an identity
 > 2. Define your objective
 > 3. Add constraints to your prompt
 > 4. Give ChatGPT a structure to follow
 > 5. Refine the output through conversation
 
-> **TIP#7:**  Use "EmotionPrompt” which combines the original prompt with emotional stimuli.
+> **TIP#8:**  Use "EmotionPrompt” which combines the original prompt with emotional stimuli.
 > It appears that adding emotional coloring increases the quality of any model. Source: https://arxiv.org/pdf/2307.11760.pdf
 > Example: Determine whether an input word has the same meaning in the two input sentences. _This is very important to my career._
 
-> **TIP#8:** To provide ChatGPT with more contextual information and improve its output, especially for complex tasks, add this prompt
+> **TIP#9:** To provide ChatGPT with more contextual information and improve its output, especially for complex tasks, add this prompt
 “Before you start, please ask me any questions you have about this so I can give you more context. Be extremely comprehensive.”
 
 
