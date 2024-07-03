@@ -20,7 +20,7 @@ Create an essay on "Historical perspective on ecological problems" and divide it
 > **TIP#6:** Be specific with your prompts.
 Vague prompts result in generic outputs. Often, this is because the context required to generate the right response lives in your head, and the chatbot doesn’t know exactly what you want. To combat this, provide ChatGPT with enough details up front so it understands your specific circumstances and knows enough to meet your demands. This often calls for an iterative process: you go back and forth with ChatGPT and refine your prompts until it has enough context to generate a better response.
 > 
-> Here are examples of creating a more specific prompt.
+> Here is an example of creating a more specific prompt.
 > 
 > Instead of this: Create a list of activities for young kids.
 > 
