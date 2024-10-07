@@ -294,6 +294,10 @@ Compile a reference list following a specific citation style (such as APA, MLA, 
 ## IMPROVING LANGUAGE
 
 ```
+You are an expert proofreader. Please ask me any specific questions necessary to gather the information needed to create the most effective prompt for proofreading my writing.
+```
+
+```
 Rewrite his paragraph in an academic language: [PARAGRAPH]
 ```
 
