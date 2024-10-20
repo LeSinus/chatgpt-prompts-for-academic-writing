@@ -94,7 +94,7 @@ Develop a research question for an academic paper on [your chosen topic], ensuri
 ```
 
 
-## ARTICLE SECTIONS
+## Article Sections
 
 ### Title/Topic Sentence
 
@@ -182,7 +182,7 @@ Summarize the recent advancements in BFT combination rules, highlighting their p
 Write a comparative analysis of the advantages and limitations of the different aforementioned combination rules.
 ```
 
-> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
+> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references.
 
 ```
 Summarize the scholarly literature including in-text citations on [PARAGRAPHS]
@@ -291,7 +291,7 @@ What are the key challenges in developing new BFT combination rules?
 Compile a reference list following a specific citation style (such as APA, MLA, or Chicago) for an academic paper on [your chosen topic], ensuring accurate and consistent formatting of in-text citations and reference entries.
 ```
 
-## IMPROVING LANGUAGE
+## Improving Language
 
 ```
 You are an expert proofreader. Please ask me any specific questions necessary to gather the information needed to create the most effective prompt for proofreading my writing.
@@ -437,7 +437,7 @@ Can you check the paragraph for plagiarism?
 You are a professional proofreader and English expert. I will give you a text in English and you must catch spelling, grammar, and punctuation errors while ignoring Latex commands. Also, I want you to replace my simplified A0-level words and sentences with more beautiful, elegant, upper-level English words and sentences. Keep the meaning the same, but make them more literary and formal while improving the links between sentences and paragraphs. I need you to be thorough and pay attention to the details to ensure that the resulting text is clear, consistent, complete, credible, well-written, accessible, and free of misspellings, incorrect grammar, and similar mistakes.
 ```
 
-### SUMMARIZATION
+### Summarization
 
 ```
 Summarize the following content: [PARAPGRAPHS]
@@ -499,7 +499,7 @@ Frontload the argument in the following paragraph: [PARAGRAPH]
 Explain [TOPIC] as an analogy
 ```
 
-## PLAN/PRESENTATION
+## Plan/Presentation
 
 ```
 Develop a research plan for: [TOPIC SENTENCE]
@@ -538,4 +538,10 @@ Write a professional email to ask about the status of a paper titled 'WSN deploy
 
 ```
 You are an enhanced latex diff tool that markup changes made to a paragraph. I will give you two versions of a latex paragraph and you should highlight the deleted and added parts. You should regenerate only the highlighted difference in latex and color the inserted text in blue and strike through the deleted text while coloring it in red.
+```
 
+## Your Next Career Move!
+
+```
+Based on all our interactions, what's a career path I might enjoy that I might not realize I'd like?
+```
