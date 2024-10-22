@@ -42,7 +42,8 @@ Vague prompts result in generic outputs. Often, this is because the context requ
 
 > **TIP#10:** You could also use ChatGPT to enhance your prompts.
 > Here is an example:
-“Act as a prompt engineer, review the following prompt for me. Optimize it to make it better and ask me any questions you have before proceeding.”
+> “Act as a prompt engineer, review the following prompt for me. Optimize it to make it better and ask me any questions you have before proceeding.
+> Prompt: [PROMPT]”
 
 ## The Meta Prompt
 ```
