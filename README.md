@@ -40,7 +40,8 @@ Vague prompts result in generic outputs. Often, this is because the context requ
 > **TIP#9:** To provide ChatGPT with more contextual information and improve its output, especially for complex tasks, add this prompt
 “Before you start, please ask me any questions you have about this so I can give you more context. Be extremely comprehensive.”
 
-> **TIP#10:** You could also use ChatGPT to enhance your prompts. Here is an example:
+> **TIP#10:** You could also use ChatGPT to enhance your prompts.
+> Here is an example:
 “Act as a prompt engineer, review the following prompt for me. Optimize it to make it better and ask me any questions you have before proceeding.”
 
 ## The Meta Prompt
