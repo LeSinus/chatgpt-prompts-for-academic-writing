@@ -186,10 +186,35 @@ Summarize the recent advancements in BFT combination rules, highlighting their p
 Write a comparative analysis of the advantages and limitations of the different aforementioned combination rules.
 ```
 
-> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references.
+```
+You are analyzing a set of research papers on the **...**. Your task is to identify research gaps through a structured synthesis process.
+
+Step 1: Build a synthesis matrix.
+Each row should correspond to a paper. Each column should represent a key analytical dimension, such as:
+...
+
+Populate the matrix with extracted information from each paper. Use bullet points or short phrases per cell.
+
+Step 2: Analyze the matrix projection.
+Use the matrix to:
+* Identify patterns (e.g., common methods or goals)
+* Detect underexplored combinations (e.g., ...)
+* Spot inconsistencies (e.g., varied metrics or evaluation depth)
+* Highlight neglected dimensions (e.g., fairness or real-world deployment)
+
+Step 3: Explicitly state the research gaps.
+Each gap must be:
+* Clearly described
+* Grounded in the matrix synthesis
+* Linked to the absence, inconsistency, or shallow treatment of a specific dimension across papers
+
+List the gaps in bullet points or numbered items. Reference relevant papers when possible. Be systematic, concise, and evidence-based.
+```
+
+> **NOTE:** Be careful and double-check article existence, ChatGPT may generate fake references.
 
 ```
-Summarize the scholarly literature including in-text citations on [PARAGRAPHS]
+Summarize the scholarly literature, including in-text citations on [PARAGRAPHS]
 ```
 
 ```
