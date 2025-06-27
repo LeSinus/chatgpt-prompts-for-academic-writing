@@ -46,7 +46,9 @@ Vague prompts result in generic outputs. Often, this is because the context requ
 > Prompt: [PROMPT]”
 
 > **TIP#11:** You could use this template to build better prompts.
+> 
 > Act as an expert prompt engineer. Your task is to take my simple prompt/goal and transform it into a detailed, optimized prompt that will yield a superior result.
+> 
 > First, analyze my request below and identify any ambiguities or missing information.
 > Then, construct a new, comprehensive prompt that:
 > 1.  **Assigns a clear Role/Persona** to the AI (e.g., "Act as a senior financial analyst...").
@@ -54,8 +56,10 @@ Vague prompts result in generic outputs. Often, this is because the context requ
 > 3.  **Specifies the exact Format** for the output (e.g., Markdown table, JSON, bulleted list).
 > 4.  **Includes Concrete Examples** of the desired output style or content.
 > 5.  **Adds Constraints** to prevent common errors or unwanted content (e.g., "Do not use jargon," "Ensure the tone is encouraging").
+>    
 > Here is my original request:
 > [Your original goal or prompt]
+> 
 > Now, provide only the new, optimized prompt.
 
 
