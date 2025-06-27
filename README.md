@@ -5,13 +5,13 @@ This compilation of writing prompts encompasses a variety of topics and tasks, w
 A token is a chunk of language that ChatGPT treats as a separate item. Depending on the language, this can be anything from a single character to a whole word. So the maximum length of a query is between 4096 characters and 4096 words (2-12 pages).
 You can input your text multiple times using the prompt "Read this [PARAPGRAPH]:" and then run your final prompt "Considering the above text...".
 
-> **TIP#2:** If you need to create a new line, press Shift+Enter. (Don’t press Enter on its own because that sends the prompt to  ChatGPT.) If you need to paste in something you’ve copied from elsewhere, give a Paste command. Normally, pressing the standard shortcut, Ctrl+V, is the easiest way. But you can also right-click in the prompt box, and then click Paste on the contextual menu.
+> **TIP#2:** If you need to create a new line, press Shift+Enter. (Don’t press Enter on its own because that sends the prompt to  ChatGPT.) If you need to paste in something you’ve copied from elsewhere, give a Paste command. Normally, pressing the standard shortcut, Ctrl+V, is the easiest way. But you can also right-click in the prompt box and then click Paste on the contextual menu.
 
 > **TIP#3:** ChatGPT isn’t just there to take orders. It can also ask questions.
 Before generating the content of a section, you could start with the prompt, “Please ask me all of the questions you need to help me write this PART.” “PART” could also be more specific, like “introduction” or “conclusion.”
 
-> **TIP#4:** To force ChatGPT to continue, you can reply to the chatbot with keywords like “Continue writing”, “Go on”, “Finish answer” or specify the portion of text you want it to continue from.
-> If you’re unable to make ChatGPT follow your “continue” queries with the right response, you can enter the following text inside ChatGPT to continue writing from where it left off: From now on when I say "continue" you must revisit the last sample of code you gave. Look at the last line of the code and continue the code from there. Do not start from the beginning of the code.
+> **TIP#4:** To force ChatGPT to continue, you can reply to the chatbot with keywords like “Continue writing”, “Go on”, “Finish answer”, or specify the portion of text you want it to continue from.
+> If you’re unable to make ChatGPT follow your “continue” queries with the right response, you can enter the following text inside ChatGPT to continue writing from where it left off: From now on, when I say "continue", you must revisit the last sample of code you gave. Look at the last line of the code and continue the code from there. Do not start from the beginning of the code.
 
 > **TIP#5:** If you find it annoying to make ChatGPT continue responding, an easier approach to get the job done is to make it split its responses into multiple pages or chapters. You can script your input in a style similar to this:
 Create an essay on "Historical perspective on ecological problems" and divide it into 20 different pages. Let's start with Page 1.
@@ -44,6 +44,24 @@ Vague prompts result in generic outputs. Often, this is because the context requ
 > Here is an example:
 > “Act as a prompt engineer, review the following prompt for me. Optimize it to make it better and ask me any questions you have before proceeding.
 > Prompt: [PROMPT]”
+
+> **TIP#11:** You could use this template to build better prompts
+```Act as an expert prompt engineer. Your task is to take my simple prompt/goal and transform it into a detailed, optimized prompt that will yield a superior result.
+
+First, analyze my request below and identify any ambiguities or missing information.
+
+Then, construct a new, comprehensive prompt that:
+1.  **Assigns a clear Role/Persona** to the AI (e.g., "Act as a senior financial analyst...").
+2.  **Provides Essential Context** that the AI would need to know.
+3.  **Specifies the exact Format** for the output (e.g., Markdown table, JSON, bulleted list).
+4.  **Includes Concrete Examples** of the desired output style or content.
+5.  **Adds Constraints** to prevent common errors or unwanted content (e.g., "Do not use jargon," "Ensure the tone is encouraging").
+
+Here is my original request:
+[Your original goal or prompt]
+
+Now, provide only the new, optimized prompt.```
+
 
 ## The Meta Prompt
 ```
@@ -566,7 +584,7 @@ Write a professional email to ask about the status of a paper titled 'WSN deploy
 ## Submission/Revisions
 
 ```
-You are an enhanced latex diff tool that markup changes made to a paragraph. I will give you two versions of a latex paragraph and you should highlight the deleted and added parts. You should regenerate only the highlighted difference in latex and color the inserted text in blue and strike through the deleted text while coloring it in red.
+You are an enhanced latex diff tool that marks up changes made to a paragraph. I will give you two versions of a latex paragraph, and you should highlight the deleted and added parts. You should regenerate only the highlighted difference in latex and color the inserted text in blue and strike through the deleted text while coloring it in red.
 ```
 
 ## Your Next Career Move!
